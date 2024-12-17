@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "location": "Downtown",
+        "price": 300000,
+        "size": 1200,
+        "amenities": ["Gym", "Pool", "Parking"],
+        "score": 85
+    },
+    {
+        "id": 2,
+        "location": "Suburb",
+        "price": 250000,
+        "size": 1500,
+        "amenities": ["Park", "School"],
+        "score": 75
+    },
+    {
+        "id": 3,
+        "location": "Beachside",
+        "price": 400000,
+        "size": 1800,
+        "amenities": ["Beach Access", "Pool", "Gym"],
+        "score": 90
+    },
+    {
+        "id": 4,
+        "location": "Uptown",
+        "price": 350000,
+        "size": 1600,
+        "amenities": ["Shopping Center", "Public Transport"],
+        "score": 80
+    },
+    {
+        "id": 5,
+        "location": "Countryside",
+        "price": 200000,
+        "size": 2000,
+        "amenities": ["Large Garden", "Quiet Area"],
+        "score": 70
+    },
+    {
+        "id": 6,
+        "location": "City Center",
+        "price": 450000,
+        "size": 1400,
+        "amenities": ["High Security", "Rooftop Garden"],
+        "score": 88
+    },
+    {
+        "id": 7,
+        "location": "Historic District",
+        "price": 320000,
+        "size": 1300,
+        "amenities": ["Cultural Sites", "Restaurants"],
+        "score": 82
+    },
+    {
+        "id": 8,
+        "location": "Tech Hub",
+        "price": 500000,
+        "size": 1700,
+        "amenities": ["Co-working Spaces", "High-Speed Internet"],
+        "score": 92
+    },
+    {
+        "id": 9,
+        "location": "Riverside",
+        "price": 280000,
+        "size": 1550,
+        "amenities": ["Waterfront Views", "Walking Trails"],
+        "score": 78
+    },
+    {
+        "id": 10,
+        "location": "Mountain View",
+        "price": 600000,
+        "size": 2200,
+        "amenities": ["Hiking Trails", "Scenic Views"],
+        "score": 95
+    },
+    {
+        "id": 11,
+        "location": "Industrial Area",
+        "price": 180000,
+        "size": 1100,
+        "amenities": ["Affordable Housing", "Close to Factories"],
+        "score": 65
+    },
+    {
+        "id": 12,
+        "location": "Luxury District",
+        "price": 1_200_000,
+        "size": 3000,
+        "amenities": ["Spa", "Private Pool", "Concierge Service"],
+        "score": 98
+    },
+    {
+        "id": 13,
+        "location": "Family Neighborhood",
+        "price": 320000,
+        "size": 1800,
+        "amenities": ["Playgrounds", "Schools"],
+        "score": 85
+    },
+    {
+        "id": 14,
+        "location": "Cultural Quarter",
+        "price": 370000,
+        "size": 1500,
+        "amenities": ["Art Galleries", "Theaters"],
+        "score": 83
+    },
+    {
+        "id": 15,
+        "location": "Eco Village",
+        "price": 290000,
+        "size": 1600,
+        "amenities": ["Sustainable Living", "Community Gardens"],
+        "score": 87
+    }
+]
